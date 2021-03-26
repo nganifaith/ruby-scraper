@@ -1,1 +1,1 @@
-sscrperr
+Scraper project following a tutorail
